@@ -10,3 +10,7 @@
                                                                                                     
 
 ```
+## Usage
+
+1. before start run udp server program
+2. after start run udp client program
