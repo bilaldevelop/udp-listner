@@ -1,0 +1,12 @@
+D:\Desigen\软件设计\UDPServer\UDPServer\bin\Debug\UDPServer.exe.config
+D:\Desigen\软件设计\UDPServer\UDPServer\bin\Debug\UDPServer.exe
+D:\Desigen\软件设计\UDPServer\UDPServer\bin\Debug\UDPServer.pdb
+D:\Desigen\软件设计\UDPServer\UDPServer\obj\Debug\UDPServer.exe
+D:\Desigen\软件设计\UDPServer\UDPServer\obj\Debug\UDPServer.pdb
+C:\Users\babdulhamid\OneDrive\Developer\Desigen\Tests\Tests-WindowsForms\UDPServer\UDPServer\bin\Debug\UDPServer.exe.config
+C:\Users\babdulhamid\OneDrive\Developer\Desigen\Tests\Tests-WindowsForms\UDPServer\UDPServer\bin\Debug\UDPServer.exe
+C:\Users\babdulhamid\OneDrive\Developer\Desigen\Tests\Tests-WindowsForms\UDPServer\UDPServer\bin\Debug\UDPServer.pdb
+C:\Users\babdulhamid\OneDrive\Developer\Desigen\Tests\Tests-WindowsForms\UDPServer\UDPServer\obj\Debug\UDPServer.csproj.CoreCompileInputs.cache
+C:\Users\babdulhamid\OneDrive\Developer\Desigen\Tests\Tests-WindowsForms\UDPServer\UDPServer\obj\Debug\UDPServer.exe
+C:\Users\babdulhamid\OneDrive\Developer\Desigen\Tests\Tests-WindowsForms\UDPServer\UDPServer\obj\Debug\UDPServer.pdb
+C:\Users\babdulhamid\OneDrive\Developer\Desigen\Tests\Tests-WindowsForms\UDPServer\UDPServer\obj\Debug\UDPServer.csproj.AssemblyReference.cache
